@@ -185,3 +185,11 @@ a {
     border-bottom-left-radius: 4px
 }
 
+html,body{
+  height: 100%;
+  }
+  
+  .form-container{
+  max-width: 350px;
+  padding: 1rem;
+  }
